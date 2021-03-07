@@ -26,6 +26,5 @@ date: 2021-03-07T21:45:04.000+00:00
      //  \ _   //      /   /   /   (|  /        |.  | (: (____/ //                             
     (:   _) \ |:  __   \  /   /   /|__/ \       \:  |  \        /                              
      \_______)|__|  \___)|___/   (_______)       \__|   \"_____/                               
-                                                                                               
 
-![](https://res.cloudinary.com/dga2uruon/image/upload/v1615137375/weed_vbswo5.png)
+![](https://res.cloudinary.com/dga2uruon/image/upload/v1615137375/weed_vbswo5.png "Product 1")
