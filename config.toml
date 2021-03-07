@@ -4,6 +4,7 @@ paginate = 5
 relativeUrls = true
 theme = "terminal"
 [languages.en]
+sectionPagesMenu = "main"
 copyright = ""
 keywords = ""
 languageName = "English"
@@ -26,4 +27,3 @@ fullWidthTheme = false
 showLanguageSelector = false
 showMenuItems = 4
 themeColor = "green"
-sectionPagesMenu = "main"
