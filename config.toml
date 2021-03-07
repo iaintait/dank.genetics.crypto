@@ -1,53 +1,28 @@
-baseurl = "/"
+baseurl = "/dankgenetics.crypto"
 languageCode = "en-us"
-theme = "terminal"
 paginate = 5
 relativeUrls = true
-
+theme = "terminal"
+[languages.en]
+copyright = ""
+keywords = ""
+languageName = "English"
+menuMore = "Show more"
+readMore = "Read more"
+readOtherPosts = "Read other posts"
+subtitle = "the frostiest nugz harvested weekly"
+title = "dank.genetics.crypto"
+[[languages.en.menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+[languages.en.params.logo]
+logoHomeLink = "/"
+logoText = "dank.genetics.crypto"
 [params]
-  # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
-
-  # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "green"
-
-  # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 4
-
-  # show selector to switch language
-  showLanguageSelector = false
-
-  # set theme to full screen width
-  fullWidthTheme = false
-
-  # center theme with default width
-  centerTheme = false
-
-  # set a custom favicon (default is a `themeColor` square)
-  # favicon = "favicon.ico"
-
-  # set all headings to their default size (depending on browser settings)
-  # it's set to `true` by default
-  # oneHeadingSize = false
-
-[languages]
-  [languages.en]
-    languageName = "English"
-    title = "dank.genetics.crypto"
-    subtitle = "the frostiest nugz harvested weekly"
-    keywords = ""
-    copyright = ""
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-
-    [languages.en.params.logo]
-      logoText = "dank.genetics.crypto"
-      logoHomeLink = "/"
-
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "home"
-        name = "Home"
-        url = "/"
-     
+centerTheme = false
+contentTypeName = "posts"
+fullWidthTheme = false
+showLanguageSelector = false
+showMenuItems = 4
+themeColor = "green"
