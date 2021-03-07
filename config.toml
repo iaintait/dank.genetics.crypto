@@ -12,7 +12,7 @@ relativeUrls = true
   themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 4
 
   # show selector to switch language
   showLanguageSelector = false
@@ -42,7 +42,7 @@ relativeUrls = true
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Hugo and Fleek"
+      logoText = "dank.genetics.crypto"
       logoHomeLink = "/"
 
     [languages.en.menu]
@@ -50,11 +50,4 @@ relativeUrls = true
         identifier = "home"
         name = "Home"
         url = "/"
-      [[languages.en.menu.main]]
-        identifier = "about_fleek"
-        name = "Learn About Fleek"
-        url = "https://fleek.co"
-      [[languages.en.menu.main]]
-        identifier = "about_hugo"
-        name = "Learn About Hugo"
-        url = "https://gohugo.io"
+     
