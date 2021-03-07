@@ -5,8 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: https://github.com/iaintait/dank.genetics.crypto/blob/master/config.toml
-  label: Config.TOML
+  path: ''
+  label: config.toml
   match: "**/*"
 - type: directory
   path: content
