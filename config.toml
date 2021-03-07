@@ -4,7 +4,6 @@ paginate = 5
 relativeUrls = true
 theme = "terminal"
 [languages.en]
-sectionPagesMenu = "main"
 copyright = ""
 keywords = ""
 languageName = "English"
