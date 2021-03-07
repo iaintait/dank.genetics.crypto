@@ -11,10 +11,10 @@ relativeUrls = true
   contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "orange"
+  themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # show selector to switch language
   showLanguageSelector = false
@@ -60,10 +60,14 @@ relativeUrls = true
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "DankGenetics.crypto"
       logoHomeLink = "/"
 
     [languages.en.menu]
+    [[languages.en.menu.main]]
+      identifier = "products"
+      name = "Products"
+      url = "/products"
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
