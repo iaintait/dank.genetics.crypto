@@ -26,3 +26,4 @@ fullWidthTheme = false
 showLanguageSelector = false
 showMenuItems = 4
 themeColor = "green"
+sectionPagesMenu = "main"
