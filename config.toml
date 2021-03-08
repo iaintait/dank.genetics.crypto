@@ -58,11 +58,9 @@ relativeUrls = true
     readOtherPosts = "Read other posts"
     missingContentMessage = "Page not found..."
     missingBackButtonLabel = "Back to home page"
-
     [languages.en.params.logo]
       logoText = "DankGenetics.crypto"
       logoHomeLink = "/"
-
     [languages.en.menu]
     [[languages.en.menu.main]]
       identifier = "invest"
